@@ -14,4 +14,4 @@ The structure of this respository is as follows:
     
     Folder: Visualization: This is where the data exploration can be found
 
-The model was used with assistance with ChatGPT 3.5 and ChatGPT 4
+The model was used with assistance of ChatGPT 3.5 and ChatGPT 4
